@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    font-style: italic;
+    color: blue;background-color: aqua;
+    border:7px;
+    border-style: solid;
+    border-color: aquamarine;
+    
+}
+p{
+    background-image: url(https://content.jdmagicbox.com/comp/kozhikode/d6/0495px495.x495.240325120338.x8d6/catalogue/st-benedicts-college-pasukkadavu-passukkadavu-kozhikode-colleges-floe1kmkdk.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+h2{
+    text-align: center;
+    font-style: italic;
+    color: black;
+}
+h4{
+    text-align: center;
+    font-style:italic ;
+}
+li{
+    list-style:lower-latin;
+}
+img{
+    width:500px;
+    height:400px;
+}
+table,th,td{
+    border: 3px solid black;
+    text-align: center;
+    width:50%;
+
+}
+.head1{
+    background-color: rgb(43, 205, 226);
+    margin: 60px 40px 20px 10px;
+    padding: 1%;
+    border-radius: 2%;
+}
